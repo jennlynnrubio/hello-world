@@ -1,2 +1,4 @@
 # hello-world
-Just learning
+Just learning,
+
+Refreshing old skills and learning some new ones.
